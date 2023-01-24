@@ -13,7 +13,6 @@ In this project, I built a Sarcasm Detector using deep learning & NLP techniques
   - sklearn
 
 ## Data Details
-(available within notebook)
 - 28,619 headlines
 - Indicator of whether the headline is sarcastic 
 - Article link

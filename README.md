@@ -17,8 +17,6 @@ In this project, I built a Sarcasm Detector using deep learning & NLP techniques
 - Indicator of whether the headline is sarcastic 
 - Article link
 
-<img width="1274" alt="NLP_Preprocessing" src="https://github.com/daphteh/Sarcasm_Detector/blob/0428ded195b07c32d6e0e2e7308b65de1d90063c/Report_images/NLP_Preprocessing.jpg">
-
 # Methodology
 <details>
 <summary> Step 1: Explore and split the data </summary>
@@ -46,3 +44,6 @@ In this project, I built a Sarcasm Detector using deep learning & NLP techniques
 <br>
       <p>   Track its performance on precision, accuracy, F1-score
 </details>
+
+<img width="1274" alt="NLP_Preprocessing" src="https://github.com/daphteh/Sarcasm_Detector/blob/0428ded195b07c32d6e0e2e7308b65de1d90063c/Report_images/NLP_Preprocessing.jpg">
+

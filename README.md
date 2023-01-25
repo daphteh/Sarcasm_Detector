@@ -7,7 +7,7 @@ In this project, I built a Sarcasm Detector using deep learning & NLP techniques
 * BERT
 * DistilBERT (Distilled BERT)
 
-## Tools used
+## Tools Used
  - tensorflow
  - transformers
   - sklearn

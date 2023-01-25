@@ -1,7 +1,7 @@
 # Sarcasm_Detector
 In this project, I built a Sarcasm Detector using deep learning & NLP techniques to predict whether headlines from 'The Onion' & 'The Huffington Post' are sarcastic. Deep learning & transfer learning techniques were used. 
 
-#### Supervised Prediction Task ####
+## Supervised Prediction Task ##
 * ML Logistic Regression Model --> useful for establishing baseline performance
 * NNLM Model with Universal Embeddings
 * BERT
@@ -45,5 +45,5 @@ In this project, I built a Sarcasm Detector using deep learning & NLP techniques
       <p>   Track its performance on precision, accuracy, F1-score
 </details>
 
-<img width="1274" alt="NLP_Preprocessing" src="https://github.com/daphteh/Sarcasm_Detector/blob/0428ded195b07c32d6e0e2e7308b65de1d90063c/Report_images/NLP_Preprocessing.jpg">
+<img width="1274" alt="NLP_Preprocessing" src="https://github.com/daphteh/Sarcasm_Detector/blob/086208b4acb252047b21243473f9d3d31e77901c/Report_images/NLP_Preprocessing.png">
 

@@ -1,4 +1,4 @@
-# Sarcasm_Detector
+# Sarcasm Detector
 In this project, I built a Sarcasm Detector using deep learning & NLP techniques to predict whether headlines from 'The Onion' & 'The Huffington Post' are sarcastic. Deep learning & transfer learning techniques were used. 
 
 ## Supervised Prediction Task ##
